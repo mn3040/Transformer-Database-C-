@@ -2,9 +2,8 @@
 
 /*
 
-in terms of storing the data, this code works as intended.
-the issue however seems to be correctly outputting the data and generating a table.
-the goal is now to be able to use a database to extract data and organize it in a class.
+still working on how to output database in ideal format.
+but the goal of this code is to be able to use a database to extract data and organize it in a class.
 
 */
 
